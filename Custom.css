@@ -1,0 +1,38 @@
+a {
+    text-decoration: none;
+}
+
+.iconos{
+    width: 20px;
+    height: 20px;
+}
+   
+.carrousel_modal{
+    width: 473px;
+    
+}
+
+.usuario{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+.slider{
+    width: 270px;
+    height: 500px;
+}
+
+.cards{
+    width: 320px;
+    height: 320px;
+}
+
+.card_left{
+    float: right;
+    width: 322px;
+}
+.card_right{
+    float: left;
+    width: 322px;
+}
